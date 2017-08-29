@@ -1,0 +1,24 @@
+*{
+  font-family: 'Indie Flower', cursive;
+  /* outline: 2px solid green; */
+}
+h1{
+  color: rgba(13, 12, 15, 0.44);
+  font-size: 50px;
+}
+body{
+  background-image: url(../img/fondo.jpg);
+}
+.boton{
+  padding: 20px;
+  /* margin: 20px; */
+  /* background-image: url(../asset/img/boton.jpg) */
+  background: #B62675;
+  border-radius: 40px ;
+  border: 2px solid #231207;
+  width: 250px;
+  height: 150px;
+  color: white;
+  font-size: 30px;
+  font-weight:800;
+}

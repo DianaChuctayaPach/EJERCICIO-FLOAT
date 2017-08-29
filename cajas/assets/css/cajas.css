@@ -2,6 +2,17 @@ body{
     align-content: center;
     background-color: rgba(0, 0, 0, 0.8);
     
+    
+}
+.botonX{
+    /* padding: 10px; */
+    font-size: 30px;
+    background: transparent;
+    border-radius: 30px;
+    align-content: center;
+    color: white;
+    border: #10839C border-style color;
+    font-family: 'Indie Flower', cursive;
 }
 #conteiner{
     margin: 10%;
@@ -36,4 +47,9 @@ div{
 .caja-clear{
   clear: left;
 
+}
+h1{
+    font-family: 'Baloo Bhaijaan', cursive;
+    color: white;
+    font-size: 50px;
 }
