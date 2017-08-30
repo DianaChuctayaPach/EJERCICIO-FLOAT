@@ -1,6 +1,7 @@
 body{
     align-content: center;
     background-color: rgba(0, 0, 0, 0.8);
+    background-image: url(../img/fondo.jpg)
     
     
 }
@@ -10,12 +11,12 @@ body{
     background: transparent;
     border-radius: 30px;
     align-content: center;
-    color: white;
-    border: #10839C border-style color;
+    color: black;
+    border: 2px solid black;
     font-family: 'Indie Flower', cursive;
 }
 #conteiner{
-    margin: 10%;
+    margin: 5%;
 }
 .caja{
   background:blue;
@@ -50,6 +51,6 @@ div{
 }
 h1{
     font-family: 'Baloo Bhaijaan', cursive;
-    color: white;
-    font-size: 50px;
+    color: black;
+    font-size: 80px;
 }

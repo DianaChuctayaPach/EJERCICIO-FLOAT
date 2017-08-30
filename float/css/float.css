@@ -1,0 +1,65 @@
+*{
+    font-family: 'Indie Flower', cursive;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/fondo.jpg);
+}
+#user{
+    height: 150px;
+    float: left;
+}
+#conteiner1{
+    width: 330px;
+    height: 170px;
+    padding: 10px;
+    left: 100px;
+    border:2px solid black ;
+}
+#user2{
+    height: 150px;
+    position: absolute;
+    left: 0;
+}
+#conteiner2{
+    width: 330px;
+    height: 170px;
+    padding: 10px;
+    position: relative;
+    padding-left: 90px;
+    border:2px solid black ;
+}
+#conteiner3{
+    border:2px solid black ;   
+}
+#contenedor{
+
+}
+.anterior{
+    float: left;
+}
+.siguiente{
+    float: right;
+}
+.clear{
+    clear: both;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#conteiner4{
+    border:2px solid black ; 
+}
+.lorem{
+    border: 2px solid red;
+    font-size: 30px;
+    margin: 10px;
+}
+.corazon{
+    float: right;
+}
+#conteiner5{
+    border:2px solid black ;
+    overflow: auto; 
+}
+
